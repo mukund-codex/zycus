@@ -1,0 +1,85 @@
+[01-May-2019 11:40:19 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[02-May-2019 17:39:47 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[03-May-2019 16:29:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:29:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:29:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:29:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:30:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:30:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:30:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:30:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:32:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:32:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:32:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 16:32:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 639
+[03-May-2019 17:05:21 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[03-May-2019 17:26:54 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 09:44:39 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 584
+[04-May-2019 09:44:39 Asia/Calcutta] PHP Notice:  Undefined index: subtitle in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 585
+[04-May-2019 09:45:43 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 584
+[04-May-2019 09:45:43 Asia/Calcutta] PHP Notice:  Undefined index: subtitle in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 585
+[04-May-2019 09:46:59 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 584
+[04-May-2019 09:46:59 Asia/Calcutta] PHP Notice:  Undefined index: subtitle in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 585
+[04-May-2019 09:57:23 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 09:57:34 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 446
+[04-May-2019 09:57:35 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 09:57:55 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 446
+[04-May-2019 09:57:55 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 10:43:11 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 10:44:57 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 11:43:08 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:43:52 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:45:17 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:47:02 Asia/Calcutta] PHP Notice:  Undefined variable: imageName in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 606
+[04-May-2019 11:47:45 Asia/Calcutta] PHP Notice:  Undefined variable: imageName in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 606
+[04-May-2019 11:48:45 Asia/Calcutta] PHP Notice:  Undefined variable: imageName in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 606
+[04-May-2019 11:50:40 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:53:20 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:53:49 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:54:30 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:54:47 Asia/Calcutta] PHP Notice:  Undefined index: tilte in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 587
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Notice:  Undefined variable: imageName in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 629
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 246
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 254
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 204
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  Division by zero in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 222
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 207
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 228
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 204
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 207
+[04-May-2019 11:56:56 Asia/Calcutta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/SaveImage.class.php on line 235
+[04-May-2019 12:39:26 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[04-May-2019 12:44:24 Asia/Calcutta] PHP Notice:  Undefined variable: imageName in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 633
+[06-May-2019 16:25:21 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 09:14:46 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 09:17:13 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:00:02 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:02:16 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:02:17 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:03:01 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:03:01 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:03:58 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:03:58 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:04:04 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:04:04 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:04:52 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:04:53 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:05:43 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:05:43 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:07:27 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:07:28 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:07:41 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:07:41 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:09:26 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:09:26 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:09:52 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:09:52 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:27:05 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[08-May-2019 19:27:23 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[08-May-2019 19:27:24 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[09-May-2019 09:52:02 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[09-May-2019 09:53:18 Asia/Calcutta] PHP Notice:  Undefined index: desc2 in /home1/shareittofriends/public_html/demo/zycus-php/panel/include/admin-functions.php on line 458
+[09-May-2019 09:53:19 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[09-May-2019 10:58:25 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[09-May-2019 16:16:17 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
+[09-May-2019 16:34:29 Asia/Calcutta] PHP Notice:  Undefined variable: parentPageURL in /home1/shareittofriends/public_html/demo/zycus-php/panel/about_us.php on line 140
